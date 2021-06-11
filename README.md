@@ -28,3 +28,11 @@ Applications Include:
 - Query and reporting
 - Online analytical processing (OLAP)
 - Statistical analysis, forecasting, and data mining.
+
+BI Tools:
+- Microsoft Power BI
+- Zoho Analytics
+- Google Data Studio
+- QlikView
+- Tableau
+- Looker
