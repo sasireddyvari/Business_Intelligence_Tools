@@ -1,2 +1,7 @@
-# Business_Intelligence_Tools
-Powerful BI tools to extract actionable insights from the dataset in minutes. Useful for decision making at various levels.
+# Analytics Dashboard reporting
+
+![Analytics_Dashboard](https://user-images.githubusercontent.com/48015531/121763063-ca80d980-cb56-11eb-8c20-043d0025591e.JPG)
+
+Link:
+
+https://app.powerbi.com/reportEmbed?reportId=e0d5ef47-af35-496f-ad15-c898e51405d9&autoAuth=true&ctid=eb70b763-b6d7-4486-8555-8831709a784e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZC1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
